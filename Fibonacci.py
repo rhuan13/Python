@@ -10,5 +10,4 @@ while n <= max:
     t2 = termo
     print termo,
     n = n + 1
-    #teste
     
