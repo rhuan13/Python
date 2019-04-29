@@ -10,3 +10,4 @@ while n <= max:
     t2 = termo
     print termo,
     n = n + 1
+    # 0,1,1,2,3,5,8,13...
